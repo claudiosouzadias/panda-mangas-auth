@@ -8,9 +8,10 @@ Authlogin for Panda Mangas WebSite, made based on a YouTube video by <a href="ht
   
   # :hammer: Techniques and technologies used
 
-- `Java`
-- `Spring Security`
-- `JWT`
+- `Spring Boot 3`
+- `JWT Authentication`
+- `PostgreSQL`
+- `Java 17`
 # 🛠️ How to run the project?
 
 
